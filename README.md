@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px">
 
-My name is Lanre Makinde and I'm a software engineer.
+My name is Lanre Makinde and I'm a software engineer .
 
             🌱 I’m currently looking into distributed system design and visual studio extension development.
             👯 I’m looking to collaborate on any challenging open source project
@@ -14,18 +14,13 @@ My name is Lanre Makinde and I'm a software engineer.
 
 <!--&nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)-->
-
-## &#x1f4c8; Stats
-
 <a href="https://github.com/lanre-mark">
 <img align="center" alt="Lanre Mark's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lanre-mark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
 <a href="https://github.com/lanre-mark">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lanre-mark&layout=compact&theme=radical" />
 </a>
 
 ## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&logo=apple&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blueviolet)
