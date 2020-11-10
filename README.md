@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px">
 
-My name is Lanre Makinde and I'm a software engineer .
+My name is Olanrewaju Makinde and I'm a software engineer..
 
             🌱 I’m currently looking into distributed system design and visual studio extension development.
             👯 I’m looking to collaborate on any challenging open source project
