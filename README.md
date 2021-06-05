@@ -14,7 +14,8 @@ My name is Olanrewaju Makinde and I'm a software engineer..
 
 <!--&nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)-->
-
+<a href="https://github.com/lanre-mark">
+<img align="center" alt="Lanre Mark's Github Stats" </a>
 <a href="https://github.com/lanre-mark">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lanre-mark&layout=compact&theme=radical" />
 </a>
